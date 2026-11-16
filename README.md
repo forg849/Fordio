@@ -1,22 +1,25 @@
-Fordio music player. I make it as a convenient application for listening to music on a computer.
+Fordio Music Player. I created it as a convenient application for listening to music on a computer.
 
-What's in the program:
+Features:
 
-- Adding music from a computer
+- Adding music from your computer via files
+
+- Customizing the interface theme
+
+- Support for various file formats
 
 - Creating playlists
 
-- Selected tracks
+- Favoriting tracks
 
 - Switching between songs
 
-- Rewind and volume control
+- Seeking (rewinding/fast-forwarding) and volume control
 
-- Repeat one song or the entire playlist
+- Repeating a single song or an entire playlist
 
-- Shuffle tracks
+- Playing tracks in random order (shuffle)
 
-The project can still be developed and new functions added.
-
+The project has room for further development—new features can be added.
 
 
